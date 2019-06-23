@@ -1,0 +1,16 @@
+full_name: Ronam Kliosov
+phone_number: 375(25)992-86-02
+email: roma101499@gmail.ru	
+social:
+  github: roma2827
+  vk: https://vk.com/id242980887
+age: 19
+progroming_languages: html(a litle), css(a litle), ruby(a litle), c++, sql(a litle). 
+about: I am a second year student of the Belarusian State University of Informatics and Rfdioelectronics. In my free time I spend on a bosketball court and on the street with my friends!
+goal: I want to be part of the ruby ??community!
+have_a_job: no.
+laptop: yes.
+english: A2.
+education: BSUIR, Faculty of Computer Design, Specialty: Information Systems and Technologies in Business Management, Year of issue: 2021.
+hours_per_day: 8-12.
+
