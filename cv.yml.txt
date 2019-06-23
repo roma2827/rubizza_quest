@@ -1,0 +1,21 @@
+--- 
+about: "I am a second year student of the Belarusian State University of Informatics and Rfdioelectronics. In my free time I spend on a bosketball court and on the street with my friends!"
+age: 19
+education: "BSUIR, Specialty: Information Systems and Technologies in Business Management, Year of issue: 2021"
+email: roma101499@gmail.ru
+english: A2
+full_name: 
+  first_name: Roman
+  last_name: Kliosov
+goal: "I want to be part of the ruby ??community!"
+have_a_job: "no"
+hours_per_day: 8-12
+laptop: "yes"
+phone_number: 375(25)992-86-02
+progroming_languages: "html(a litle), css(a litle), ruby(a litle), c++, sql(a litle)"
+social: 
+  github: roma2827
+  vk: "https://vk.com/id242980887"
+
+
+
